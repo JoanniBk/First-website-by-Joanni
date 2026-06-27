@@ -1,0 +1,74 @@
+h1 {
+  background: teal;
+  text-align: center;
+  color: white;
+  border: 3px solid black;
+  font-size: ;
+}
+
+body {
+  background: bisque;
+}
+
+h2 {
+  border: 3px solid black;
+  text-align: center;
+  color: white;
+  background: teal;
+}
+
+h5 {
+  text-align: right;
+}
+
+div {
+  background: white;
+  border: 3px solid black;
+}
+
+#image {
+  text-align: center;
+  background: black;
+}
+
+#Scripture {
+  background: bisque;
+  text-align: center;
+  border: bisque;
+}
+
+#image-of-man {
+  background: bisque;
+  border: bisque;
+  text-align: center;
+}
+
+#verse {
+  background: bisque;
+  border: bisque;
+  text-align: center;
+}
+
+#Bible {
+  background: bisque;
+  border: bisque;
+  text-align: center;
+}
+
+#Counseling {
+  background: bisque;
+  border: bisque;
+  text-align: center;
+}
+
+#verse2 {
+  background: bisque;
+  border: bisque;
+  text-align: center;
+}
+
+#scripture {
+  background: bisque;
+  text-align: center;
+  border: bisque;
+}
